@@ -1,5 +1,17 @@
 # viem
 
+## 2.21.54
+
+### Patch Changes
+
+- [#3081](https://github.com/wevm/viem/pull/3081) [`0d9dfcd1d22d82e995abc4a23fb86614244faa54`](https://github.com/wevm/viem/commit/0d9dfcd1d22d82e995abc4a23fb86614244faa54) Thanks [@danijelTxFusion](https://github.com/danijelTxFusion)! - Added ZKSync local hyperchain networks.
+
+- [`7c0cce92b904f1771ec9747e7aa6a6482159a87b`](https://github.com/wevm/viem/commit/7c0cce92b904f1771ec9747e7aa6a6482159a87b) Thanks [@jxom](https://github.com/jxom)! - Added assertion for ABI-encoding integer ranges.
+
+- [#2642](https://github.com/wevm/viem/pull/2642) [`d1d092c19326fe0045233aee0cde8f6ceaff8633`](https://github.com/wevm/viem/commit/d1d092c19326fe0045233aee0cde8f6ceaff8633) Thanks [@0x33dm](https://github.com/0x33dm)! - Added `ping` option to `fallback` Transport.
+
+- [#3085](https://github.com/wevm/viem/pull/3085) [`acc496adc8d419ce6c593408ee75925c05fb22b6`](https://github.com/wevm/viem/commit/acc496adc8d419ce6c593408ee75925c05fb22b6) Thanks [@Zhangnong](https://github.com/Zhangnong)! - Added multicall3 contract to ThunderCore.
+
 ## 2.21.53
 
 ### Patch Changes
